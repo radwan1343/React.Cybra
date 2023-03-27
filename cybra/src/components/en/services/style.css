@@ -1,0 +1,33 @@
+
+.services .sevices-title{
+    color: #000 !important;
+}
+.boxes{
+    margin-bottom: 88px;
+}
+.box{    border: 1px solid white;
+    border-radius: 15px;
+    /* box-shadow:  0px 0px 28px 0px rgba(0, 0, 0, 0.2); */
+    box-shadow: 0 0 4rem rgba(0,0,0,.1)!important;
+    height: 250px;
+    width: auto;
+    margin: 0 47px;
+    margin-top: 20px;
+   
+}
+.box h2{
+color: #000;
+padding-top: 30px;
+}
+
+p{
+    color: #000;
+}
+.box span{
+    color: #BDBDBD;
+    font-family: "semi-bold";
+    
+}
+img{
+    height: 90px;
+}

@@ -1,0 +1,35 @@
+.about{
+    background-color: #151515;
+}
+.about-head .about-head-title{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 15px;
+        font-family: "EN";
+     
+}
+.about-head .about-head-paragraph{
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "regular";
+}
+.about-promise .about-promise-title{
+    color: #9A7ACE;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.row{
+    padding: 0;
+    margin: 0;
+    margin-right: 0px; 
+     margin-left: 0px;
+}
+.about-promise-h3 h3{
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.about-promise-h3 img{
+    height: 75px;
+}

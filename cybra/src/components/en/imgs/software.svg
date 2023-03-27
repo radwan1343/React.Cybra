@@ -1,0 +1,19 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="131.233" height="181.825" viewBox="0 0 131.233 181.825">
+  <g id="Livello_1" data-name="Livello 1">
+    <path id="Path_358" data-name="Path 358" d="M174.29,275.644v88.007L47.5,290.561V203.3Z" transform="translate(-43.056 -184.281)" fill="#c6c6c6"/>
+    <path id="Path_359" data-name="Path 359" d="M174.29,91.363V73.277L47.5,0V19.019Z" transform="translate(-43.056)" fill="#333"/>
+    <path id="Path_360" data-name="Path 360" d="M126.79,301.884v88.007L0,316.8V229.54Z" transform="translate(0 -208.066)" fill="#e2e2e2"/>
+    <path id="Path_361" data-name="Path 361" d="M126.79,117.6V99.517L0,26.24V45.259Z" transform="translate(0 -23.785)" fill="#484848"/>
+    <path id="Path_362" data-name="Path 362" d="M915.26,886.5V921.5L884.93,904V869.49Z" transform="translate(-802.144 -788.149)" fill="#9b9b9b"/>
+    <path id="Path_363" data-name="Path 363" d="M915.26,1379.447v16l-30.33-17.495V1361.78Z" transform="translate(-802.144 -1234.385)" fill="#9b9b9b"/>
+    <path id="Path_364" data-name="Path 364" d="M204.259,546.453v16.222l-55.439-31.9V514.55Z" transform="translate(-134.898 -466.414)" fill="#9b9b9b"/>
+    <path id="Path_365" data-name="Path 365" d="M204.259,745.763v16.222l-55.439-31.9V713.86Z" transform="translate(-134.898 -647.078)" fill="#9b9b9b"/>
+    <path id="Path_366" data-name="Path 366" d="M204.259,945.074V961.3l-55.439-31.9V913.17Z" transform="translate(-134.898 -827.743)" fill="#9b9b9b"/>
+    <path id="Path_367" data-name="Path 367" d="M1355.31,1067.081l4.444-2.455V976.62l-4.444,2.455Z" transform="translate(-1228.52 -885.257)" fill="#c6c6c6"/>
+    <path id="Path_368" data-name="Path 368" d="M1355.31,803.831V785.745l4.444-2.455v18.086Z" transform="translate(-1228.52 -710.013)" fill="#232323"/>
+    <path id="Path_369" data-name="Path 369" d="M126.79,75.732l4.444-2.455L4.444,0,0,2.455Z" fill="#161616"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.919" cy="4.997" rx="2.919" ry="4.997" transform="translate(111.147 76.874) rotate(-31.2)" fill="#6f6f6f"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.919" cy="4.997" rx="2.919" ry="4.997" transform="translate(100.394 69.975) rotate(-31.2)" fill="#535353"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="2.919" cy="4.997" rx="2.919" ry="4.997" transform="translate(89.487 63.885) rotate(-31.2)" fill="#cecece"/>
+  </g>
+</svg>

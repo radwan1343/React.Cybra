@@ -1,0 +1,32 @@
+.h1 {
+    margin: 20px 0px!important ;
+}
+
+.text {
+    margin: 30px 0px!important;
+}
+
+.gray  {
+    color:#707070;
+}
+
+.gray:hover  {
+    color:#707070;
+}
+
+.icon2 {
+    padding: 0px 20px 0px 0px ;
+}
+
+.icon2 img{
+    width: 20px;
+}
+
+.facebook img {
+    width: 12px;
+}
+
+.maps img {
+    height: 400px;
+}
+

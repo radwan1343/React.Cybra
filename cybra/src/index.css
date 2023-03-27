@@ -1,0 +1,121 @@
+
+@font-face {
+  font-family: "EN";
+  src: url("./components/en/fonts/SpaceGrotesk-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "light";
+  src: url("./components/en/fonts/SpaceGrotesk-Light.otf") format("truetype");
+}
+@font-face {
+  font-family: "medium";
+  src: url("./components/en/fonts/SpaceGrotesk-Medium.otf") format("truetype");
+}
+@font-face {
+  font-family: "regular";
+  src: url("./components/en/fonts/SpaceGrotesk-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "semi-bold";
+  src: url("./components/en/fonts/SpaceGrotesk-SemiBold.otf") format("truetype");
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.custom-container{
+  padding-right: 0;
+  padding-left: 0;
+  width: 100%,
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1600px;
+    }
+}
+@media (min-width: 1900px) {
+    .container {
+        max-width: 1900px;
+    }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1180px;
+  }
+}
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.custom-container2{
+  padding-right: 0;
+  padding-left: 0;
+  width: 100%,
+}
+.container2 {
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 1600px) {
+    .container2 {
+        max-width: 1600px;
+    }
+}
+@media (min-width: 1900px) {
+    .container2 {
+        max-width: 1900px;
+    }
+}
+@media (min-width: 768px) {
+  .container2 {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container2 {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container2 {
+    width: 1180px;
+  }
+}
+.container-fluid2 {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}

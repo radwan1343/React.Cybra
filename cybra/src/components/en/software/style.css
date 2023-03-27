@@ -1,0 +1,38 @@
+.it-up{
+    margin-bottom: 40px;
+}
+.it-up .it-title{
+    color: black;
+}
+.services-back{
+    
+text-align: left;
+}
+.services-back .back ,.services-back span {
+    text-align: left;
+
+color: black;}
+.box2 h2 {
+    padding-top: 45px;
+    color: #000;
+}
+
+.it-bottom{
+    margin: 80px auto;
+}
+.it-bottom h1{
+    color: black;
+}
+.box2{    border: 1px solid #F8F8F8!important;
+    background-color: #F8F8F8!important;
+    box-shadow: none!important;
+    border-radius: 0px!important;
+    height: 250px;
+    width: auto;
+    margin: 0 47px;
+    margin-top: 20px;
+   
+}
+.box2 span{
+    color:#9A7ACE;
+}
